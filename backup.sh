@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SOURCE="/media/kimchen/HGST/_OBSIDIAN/LINUX/"
-DEST="/home/kimchen/pCloudDrive/_OBSIDIAN_bak2/LINUX"
+SOURCE="/DIR/LINUX/"
+DEST="/REMOTE_DIR/LINUX"
 
 FORCE=0
 
